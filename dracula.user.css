@@ -14,9 +14,6 @@
   #hnmain > tbody > tr:nth-child(1) > td {
     background-color: #44475a;
   }
-  #hnmain > tbody > tr:nth-child(4) > td > table > tbody > tr > td {
-    background-color: #6272a4;
-  }
   a:link,
   .reply a:link,
   .comment a:link {

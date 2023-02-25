@@ -37,8 +37,7 @@
     > a {
     color: #50fa7b;
   }
-  .comhead a:link,
-  .subtext a:visited {
+  .comhead a:link {
     color: #8be9fd;
   }
   .score {

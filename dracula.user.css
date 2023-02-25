@@ -68,6 +68,9 @@
   #hnmain > tbody > tr:nth-child(4) > td > center:nth-child(6) > form {
     color: #50fa7b;
   }
+  .pagetop {
+    color: #f8f8f2;
+  }
   .pagetop a:visited {
     color: #bd93f9;
   }

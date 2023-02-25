@@ -17,7 +17,8 @@
   #hnmain > tbody > tr:nth-child(4) > td > table > tbody > tr > td {
     background-color: #6272a4;
   }
-  a:link {
+  a:link,
+  .reply a:link {
     color: #bd93f9;
   }
   .hnmore a:link,

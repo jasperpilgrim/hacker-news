@@ -48,3 +48,9 @@ a {
 .comhead a {
   color: #8be9fd !important;
 }
+.toptext {
+  width: 75ch;
+}
+.comment-tree {
+  width: 75ch;
+}

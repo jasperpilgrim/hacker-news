@@ -7,50 +7,53 @@
 @supportURL     https://github.com/jasperpilgrim/hn-dracula/issues
 @license        MIT
 ==/UserStyle== */
-* {
-  color: #f8f8f2 !important;
-  background-color: #282a36 !important;
-}
-body > center > table > tbody > tr:first-child * {
-  background-color: #44475a !important;
-}
-code,
-pre,
-input,
-textarea,
-form {
-  background: #282a36 !important;
-  color: #f8f8f2 !important;
-  border-color: #8be9fd !important;
-}
-a {
-  color: #bd93f9 !important;
-}
-.hnname a {
-  color: #50fa7b !important;
-}
-.sitestr {
-  color: #8be9fd !important;
-}
-.rank {
-  color: #6272a4 !important;
-}
-.subline {
-  color: #6272a4 !important;
-}
-.score,
-#karma {
-  color: #ffb86c !important;
-}
-.subtext a {
-  color: #6272a4 !important;
-}
-.comhead a {
-  color: #8be9fd !important;
-}
-.toptext {
-  width: 75ch;
-}
-.comment-tree {
-  width: 75ch;
+@-moz-document url-prefix("https://news.ycombinator.com")
+{
+  * {
+    color: #f8f8f2 !important;
+    background-color: #282a36 !important;
+  }
+  body > center > table > tbody > tr:first-child * {
+    background-color: #44475a !important;
+  }
+  code,
+  pre,
+  input,
+  textarea,
+  form {
+    background: #282a36 !important;
+    color: #f8f8f2 !important;
+    border-color: #8be9fd !important;
+  }
+  a {
+    color: #bd93f9 !important;
+  }
+  .hnname a {
+    color: #50fa7b !important;
+  }
+  .sitestr {
+    color: #8be9fd !important;
+  }
+  .rank {
+    color: #6272a4 !important;
+  }
+  .subline {
+    color: #6272a4 !important;
+  }
+  .score,
+  #karma {
+    color: #ffb86c !important;
+  }
+  .subtext a {
+    color: #6272a4 !important;
+  }
+  .comhead a {
+    color: #8be9fd !important;
+  }
+  .toptext {
+    width: 75ch;
+  }
+  .comment-tree {
+    width: 75ch;
+  }
 }

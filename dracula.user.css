@@ -1,92 +1,50 @@
 /* ==UserStyle==
-@name           Oficial Dracula Theme
-@namespace      github.com/dracula/hacker-news
+@name           HN Dracula
+@namespace      https://github.com/jasperpilgrim
 @version        1.0.0
 @description    A dark theme for Hacker News
-@supportURL     https://github.com/dracula/hacker-news/issues
+@homepageURL    https://github.com/jasperpilgrim/hacker-news
+@supportURL     https://github.com/jasperpilgrim/hacker-news/issues
 @license        MIT
 ==/UserStyle== */
-@-moz-document url-prefix("https://news.ycombinator.com")
-{
-  #hnmain {
-    background-color: #282a36;
-  }
-  #hnmain > tbody > tr:nth-child(1) > td {
-    background-color: #44475a;
-  }
-  a:link,
-  .reply a:link,
-  .comment a:link {
-    color: #bd93f9;
-  }
-  .hnmore a:link,
-  a:visited {
-    color: #6272a4;
-  }
-  #hnmain
-    > tbody
-    > tr:nth-child(1)
-    > td
-    > table
-    > tbody
-    > tr
-    > td:nth-child(2)
-    > span
-    > b
-    > a {
-    color: #50fa7b;
-  }
-  .comhead a:link {
-    color: #8be9fd;
-  }
-  .score {
-    color: #ffb86c;
-  }
-  #karma {
-    color: #ffb86c;
-  }
-  #hnmain
-    > tbody
-    > tr:nth-child(1)
-    > td
-    > table
-    > tbody
-    > tr
-    > td:nth-child(3)
-    > span {
-    color: #ffb86c;
-  }
-  #hnmain
-    > tbody
-    > tr:nth-child(4)
-    > td
-    > center:nth-child(6)
-    > form
-    > input[type="text"] {
-    background-color: #44475a;
-  }
-  #hnmain > tbody > tr:nth-child(4) > td > center:nth-child(6) > form {
-    color: #50fa7b;
-  }
-  .pagetop {
-    color: #f8f8f2;
-  }
-  .pagetop a:visited {
-    color: #bd93f9;
-  }
-  .title {
-    color: #6272a4;
-  }
-  body {
-    background-color: #282a36;
-  }
-  .commtext {
-    color: #f8f8f2;
-  }
-  textarea,
-  input {
-    background-color: #282a36;
-    color: #f8f8f2;
-    border-color: #8be9fd;
-  }
+* {
+  color: #f8f8f2 !important;
+  background-color: #282a36 !important;
+}
+body > center > table > tbody > tr:first-child * {
+  background-color: #44475a !important;
+}
+code,
+pre,
+input,
+textarea,
+form {
+  background: #282a36 !important;
+  color: #f8f8f2 !important;
+  border-color: #8be9fd !important;
+}
+a {
+  color: #bd93f9 !important;
+}
+.hnname a {
+  color: #50fa7b !important;
+}
+.sitestr {
+  color: #8be9fd !important;
+}
+.rank {
+  color: #6272a4 !important;
+}
+.subline {
+  color: #6272a4 !important;
+}
+.score,
+#karma {
+  color: #ffb86c !important;
+}
+.subtext a {
+  color: #6272a4 !important;
+}
+.comhead a {
+  color: #8be9fd !important;
 }

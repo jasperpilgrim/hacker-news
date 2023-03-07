@@ -2,6 +2,8 @@
 
 > A dark theme for [Hacker News](https://news.ycombinator.com/).
 
+![Screenshot](./screenshot.png)
+
 ## Install
 
 ## About

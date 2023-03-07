@@ -7,7 +7,7 @@
 ## Install
 
 - Install [Stylus](https://github.com/openstyles/stylus)
-- [Click here](https://github.com/jasperpilgrim/hn-dracula/raw/main/dracula.user.css) and Stylus will prompt you to install the theme
+- [Click here](https://github.com/jasperpilgrim/hn-dracula/raw/main/hn-dracula.user.css) and Stylus will prompt you to install the theme
 - That's it. Enjoy!
 
 ## About

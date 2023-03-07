@@ -12,6 +12,8 @@
 
 ## About
 
+Forked from [Dracula for Hacker News](https://github.com/dracula/hacker-news). Updated for more consistent theming and readability.
+
 ## License
 
 [MIT License](./LICENSE)

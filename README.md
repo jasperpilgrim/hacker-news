@@ -14,7 +14,7 @@ For further instructions, [click here](https://github.com/jasperpilgrim/hn-dracu
 
 ## About
 
-Forked from [Dracula for Hacker News](https://github.com/dracula/hacker-news). Updated for more consistent theming and readability.
+Forked from [Dracula for Hacker News](https://github.com/dracula/hacker-news). Updated for more consistent theming and better readability.
 
 ## License
 

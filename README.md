@@ -1,4 +1,4 @@
-# HN-Dracula | Dracula for [Hacker News](https://news.ycombinator.com/)
+# HN-Dracula
 
 > A dark theme for [Hacker News](https://news.ycombinator.com/).
 

@@ -16,4 +16,4 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-You can find a link to the css that you'll need to manually inject on Stylus [here](https://github.com/jasperpilgrim/hn-dracula/blob/main/hn-dracula.user.css).
+You can find a link to the CSS file that you'll need to manually inject using Stylus [here](https://github.com/jasperpilgrim/hn-dracula/blob/main/hn-dracula.user.css).

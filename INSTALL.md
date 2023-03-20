@@ -6,7 +6,7 @@
 
 - [Click here to install HN Dracula](https://github.com/jasperpilgrim/hn-dracula/raw/main/hn-dracula.user.css)
 
-- Once installed, it will replace the default theme for Dracula!
+- Enjoy an HN dark mode reading experience!
 
 #### Install using Git
 

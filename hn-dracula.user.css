@@ -50,8 +50,8 @@
   .comhead a {
     color: #8be9fd !important;
   }
-  .comment-tree,
-  .toptext {
+  .toptext,
+  .comment-tree {
     width: 70%;
   }
 }
